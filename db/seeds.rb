@@ -74,5 +74,5 @@ Question.create(question: "What is the most points that Michael Jordan has score
 
 Answer.create(question_id: 10, answer: '55', correct: false)
 Answer.create(question_id: 10, answer: '70', correct: false)
-Answer.create(question_id: 10, answer: '63', correct: true)
-Answer.create(question_id: 10, answer: '69', correct: false)
+Answer.create(question_id: 10, answer: '63', correct: false)
+Answer.create(question_id: 10, answer: '69', correct: true)
