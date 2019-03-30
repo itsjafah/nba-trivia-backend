@@ -51,7 +51,7 @@ Answer.create(question_id: 6, answer: 'Kareem Abdul-Jabbar', correct: true)
 
 Question.create(question: "Which is the only team to reach the Finals as the 8 seed?", active: false)
 
-Answer.create(question_id: 7, answer: 'Golden State Warriors', correct: true)
+Answer.create(question_id: 7, answer: 'Golden State Warriors', correct: false)
 Answer.create(question_id: 7, answer: 'New York Knicks', correct: true)
 Answer.create(question_id: 7, answer: 'Seattle Supersonics', correct: false)
 Answer.create(question_id: 7, answer: 'Miami Heat', correct: false)
